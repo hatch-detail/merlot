@@ -1,5 +1,5 @@
-title: Merlot theme
-description: Merlot is a theme for GitHub Pages.
-show_downloads: true
+title: Mike's 30 Minute Math Bootcamp
+description: From functions to first-order linear differential equations, and why it matters to everyone.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-merlot

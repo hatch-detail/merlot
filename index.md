@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+This is where some kind of description would go. And maybe a table of contents style list of sections to skip to.
 
 [Link to another page](./another-page.html).
 
@@ -10,11 +10,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# What is this?
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This area would describe what in the heck this is, why it is, and who it is for. It's the tinder bio of the website.
 
-## Header 2
+## Layout
+
+Go over the layout of the site and how to get around and all that kind of fun stuff. Maybe have the TOC here.
 
 > This is a blockquote following a header.
 >
